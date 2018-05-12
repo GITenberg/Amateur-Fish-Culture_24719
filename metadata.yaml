@@ -1,0 +1,26 @@
+_repo: Amateur-Fish-Culture_24719
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walker, Charles Edward
+    deathdate: 1953
+    gutenberg_agent_id: '26696'
+    url: http://www.gutenberg.org/2009/agents/26696
+description: ''
+gutenberg_issued: '2008-02-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24719'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aquaculture'
+- !lcc 'SH'
+- !lcsh 'Fish culture'
+title: Amateur Fish Culture
+url: http://www.gutenberg.org/ebooks/24719
